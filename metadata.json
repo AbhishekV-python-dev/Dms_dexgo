@@ -1,0 +1,6 @@
+{
+  "name": "DEXGO DMS & Mobility Platform",
+  "description": "Next-generation automotive dealer management system redesigned with the DEXGO electric cyan & lime visual language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
